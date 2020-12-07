@@ -1,0 +1,27 @@
+# Project exclude paths
+/microservice-api/target/
+/microservice-config/target/
+/microservice-config2/target/
+/microservice-config3/target/
+/microservice-config-bus/target/
+/microservice-config-bus-client/target/
+/microservice-config-client/target/
+/microservice-config-eureka-client/target/
+/microservice-config-provider-hystrix-client/target/
+/microservice-consumer/target/
+/microservice-consumer2/target/
+/microservice-consumer-feign/target/
+/microservice-eureka/target/
+/microservice-eureka2/target/
+/microservice-eureka3/target/
+/microservice-ha-config-eureka/target/
+/microservice-hystrix-dashboard/target/
+/microservice-interface/target/
+/microservice-provider/target/
+/microservice-provider2/target/
+/microservice-provider3/target/
+/microservice-provider-hystrix/target/
+/microservice-provider-user-hystrix/target/
+/microservice-security/target/
+/microservice-turbine/target/
+/microservice-zuul-gateway/target/
